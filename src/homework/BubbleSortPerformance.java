@@ -1,5 +1,4 @@
 package homework;
-import java.util.Arrays;
 
 public class BubbleSortPerformance implements Sorter {
     @Override
