@@ -1,7 +1,5 @@
 package homework;
 
-import java.util.Arrays;
-
 public class SelectionSortPerformance implements Sorter {
     @Override
     public void sort(int[] array) {
